@@ -1,4 +1,5 @@
 # 说明 （部署前请仔细阅读完）
+* Start UP---ADDITIONAL NODE PACKAGES   axios
 * 本项目是针对node环境的容器平台和游戏玩具而生，采用nodews组件连接argo隧道部署节点，集成哪吒探针服务(可选)。
 * node玩具平台只需上传index.js和package.json即可，需要docker部署的才上传Dockerfile。
 * 如需是链接github部署，请先删除README.md说明文件，安全起见，已混淆主代码部分，无日志输出。
